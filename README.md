@@ -27,11 +27,13 @@ My first project after learning basic javascript, html and css from a tutorial.
 5. Click **AutoPlay** to watch the game play automatically.
 6. Click **Reset Score** to reset wins, losses, and ties.
 
-project-folder/
+project-folder
 rps.html # Main HTML file
 rps.css # Styling for the game
 rps.js # JavaScript logic
 rock-emoji.png # Rock image
 paper-emoji.png # Paper image
 scissors-emoji.png # Scissors image
+
+
 
