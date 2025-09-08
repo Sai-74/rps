@@ -3,7 +3,7 @@ rock paper and scissor game
 
 # go to https://sai-74.github.io/rps/rps.html to play the game.
 
-My first project after learning basic javascript, html and css from a tutorial.
+My first project after learning basic javascript, html and css from a tutorial. After watching the tutorial and doing some exercises, I tried my best to think of the logic for the javascript by myself wihtout goint back to the tutorial. 
 
 ## Features
 
@@ -27,13 +27,18 @@ My first project after learning basic javascript, html and css from a tutorial.
 5. Click **AutoPlay** to watch the game play automatically.
 6. Click **Reset Score** to reset wins, losses, and ties.
 
-project-folder
-rps.html # Main HTML file.
-rps.css # Styling for the game.
-rps.js # JavaScript logic.
-rock-emoji.png # Rock image.
-paper-emoji.png # Paper image.
-scissors-emoji.png # Scissors image.
+Project folder structure:
 
+- `rps.html` – Main HTML file
+- `rps.css` – Styling for the game
+- `rps.js` – JavaScript logic
+- `rock-emoji.png` – Rock image
+- `paper-emoji.png` – Paper image
+- `scissors-emoji.png` – Scissors image
+
+# Extra add ons.
+
+since most of my code is things I learnt from the tutorial I added some touch of my own by adding comments.
+comments are randomly chosen from a list of pre written text to go alongside the result.
 
 
